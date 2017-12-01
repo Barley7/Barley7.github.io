@@ -9,7 +9,7 @@ name: Spongerob the sponge
 description: He lives in a pineapple under the sea
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ("https://timedotcom.files.wordpress.com/2014/08/t100_tv_spongebob_free1.jpg?quality=85")
+avatar: https://timedotcom.files.wordpress.com/2014/08/t100_tv_spongebob_free1.jpg?quality=85
 # Flags below are optional
 #
 background-image: ("https://i.ytimg.com/vi/JtJSGYYYkxQ/hqdefault.jpg");
