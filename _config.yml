@@ -12,11 +12,10 @@ description: He lives in a pineapple under the sea
 avatar: https://timedotcom.files.wordpress.com/2014/08/t100_tv_spongebob_free1.jpg?quality=85
 # Flags below are optional
 #
-<body> 
+body { 
 color: #99ff99;
 background: #99ff99;
-</body>
-#
+}
 video: https://www.youtube.com/watch?v=CHga6AuHvyU
 video: https://www.youtube.com/watch?v=EuJuS9UFhiI
 # Includes an icon in the footer for each username you enter
