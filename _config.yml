@@ -13,7 +13,7 @@ avatar: https://timedotcom.files.wordpress.com/2014/08/t100_tv_spongebob_free1.j
 #
 #
 body {
-    background-color: lightblue;
+    background-color:#00FFFF;
 }
 # Includes an icon in the footer for each username you enter
 footer-links:
