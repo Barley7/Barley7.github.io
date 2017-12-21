@@ -12,7 +12,9 @@ description: He lives in a pineapple under the sea
 avatar: https://timedotcom.files.wordpress.com/2014/08/t100_tv_spongebob_free1.jpg?quality=85
 #
 #
-background-image: url("http://vignette1.wikia.nocookie.net/spongebob/images/c/c6/SpongeBob%27s_pineapple_house_in_Season_4-9.png/revision/latest?cb=20150425072621");
+body  {
+background-image: url("paper.gif");
+}
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
