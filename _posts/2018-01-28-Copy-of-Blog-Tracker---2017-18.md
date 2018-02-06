@@ -8,10 +8,10 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
-    <td>Start our game</td>
-    <td>Date</td>
-    <td>25/01/18</td>
+    <td>Title:</td>
+    <td>Carry on with our games.</td>
+    <td></td>
+    <td>01/02/18</td>
   </tr>
 </table>
 
@@ -22,12 +22,12 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
-    <td>Start our game</td>
+    <td>Target for this lesson:</td>
+    <td>Improve our games.</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>Yes as I did a little bit of code and got all the sprites up.</td>
+    <td>Yes, I did a lot more coding and learnt how to change background.</td>
   </tr>
 </table>
 
@@ -39,30 +39,30 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>I didn't know how to get the sprites up from google but in the end I did.</td>
+    <td>When I started doing the switching backgrounds, I couldn't. But after failing many times I can now.</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td></td>
+    <td>When he was telling us about the backgrounds I didn’t understand one piece of the coding and I asked him what it meant.</td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td>When someone asked me how to do something I said that you need to find out yourself.</td>
+    <td></td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>I used all of the previous lessons from my old school as well to help me to improve my game and make it more realistic.</td>
+    <td>After many lessons and tips I was reflecting on how I could improve my game.</td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>I was engaging when Mr. Keen was telling us what makes a good game</td>
+    <td>I was very engaged in my work therefore I did a lot of coding in the lesson.</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
   </tr>
   <tr>
-    <td>I could have done more work on putting the scripts in and programming the sprites rather than getting the sprites looking perfect when I could’ve done that when I had more time.</td>
+    <td>After Mr Keen telling me how to change between backgrounds, I did half of it but then completely forgot how to do the next bit which stopped from doing other things that I wanted to do in that time.  </td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Do what actually matters when I can remember everything Mr. Keen has told me. Such as the code not the looks. Because when I am at home doing my homework I might not remember what to do or how to do things, therefore wishing that I had done it class.</td>
+    <td>When Mr Keen is telling the class and I how to do something I need to be more engaging therefore I can be doing more coding in class helping me and my game.</td>
     <td></td>
   </tr>
 </table>
