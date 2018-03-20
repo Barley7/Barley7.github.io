@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   table, th, td {
-    border: 1px solid black;
+    border: 3px solid black;
 }
   <tr>
     <td>Title:</td>
