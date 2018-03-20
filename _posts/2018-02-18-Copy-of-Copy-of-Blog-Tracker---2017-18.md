@@ -6,6 +6,7 @@ permalink: /copy-of-copy-of-blog-tracker---2017-18/
 source-id: 1_89SXbLRzYy_5KIL44PLbDLko6fuQMc99P5YOV-EIsc
 published: true
 ---
+
 <table>
   table, th, td {
     border: 3px solid black;
