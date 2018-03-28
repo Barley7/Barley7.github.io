@@ -1,5 +1,5 @@
 ---
-title: Copy of Blog Tracker - 2017-18
+title: Improving your blog-2017-18
 layout: post
 author: robert.spittal
 permalink: /copy-of-blog-tracker---2017-18/
