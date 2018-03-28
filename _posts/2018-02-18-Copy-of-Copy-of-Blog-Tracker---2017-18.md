@@ -1,15 +1,11 @@
 ---
-title: Copy of Copy of Blog Tracker - 2017-18
+title: Improving your blog-2017-18
 layout: post
 author: robert.spittal
 permalink: /copy-of-copy-of-blog-tracker---2017-18/
 source-id: 1_89SXbLRzYy_5KIL44PLbDLko6fuQMc99P5YOV-EIsc
 published: true
 ---
-
-<table>
-  table, th, td {
-    border: 3px solid black;
 }
   <tr>
     <td>Title:</td>
