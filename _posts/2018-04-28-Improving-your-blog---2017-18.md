@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title:</td>
-    <td>How adverts add unnecessary things that attract you to their product. </td>
+    <td>Learn what reality TV is.</td>
     <td>Date:</td>
-    <td>26/04/18</td>
+    <td>10/05/18</td>
   </tr>
 </table>
 
@@ -23,11 +23,11 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson:</td>
-    <td>Understand how they attract you.</td>
+    <td>Learn what reality TV is.</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>Yes, it's because they know what like and dislike.</td>
+    <td>Yes, it is when people aren't acting but being themselves on front of a camera.</td>
   </tr>
 </table>
 
@@ -43,7 +43,7 @@ published: true
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td></td>
+    <td>When Mr Keen asked us what reality TV was I asked myself in my head what it could be and what I have seen of it.</td>
   </tr>
   <tr>
     <td>Independence</td>
@@ -51,18 +51,18 @@ published: true
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>When we were asked on what they do to attract you, I reflected on adverts I'd seen to help me.</td>
+    <td>Last lesson we learnt about how things are photoshopped and not real. I used what we learnt then to help me with differences and connections.</td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>I was engaging with the task of needing to find out why and how they do this.</td>
+    <td>As soon as Mr Keen asked us that question I was very engaging because I had seen many things which I thought was reality TV.</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
   </tr>
   <tr>
-    <td>When we were learning about how they are trying to attract customers. I could have asked more questions to help me learn more about this subject.</td>
+    <td>When Mr Keen was showing us videos I was talking quite a lot and therefore disrupting the class when I should be just watching and listening.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Next time I should be more confident and so shy because then I will be learning more and the whole lesson is just more worth while.</td>
+    <td>Next time I need to be more murchire and not start talking or laughing. I should be more focused on the lesson and what is going on.</td>
     <td></td>
   </tr>
 </table>
