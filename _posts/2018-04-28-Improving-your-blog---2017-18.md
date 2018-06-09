@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title:</td>
-    <td>Learn what reality TV is.</td>
+    <td>Internet rules and security.</td>
     <td>Date:</td>
-    <td>10/05/18</td>
+    <td>07/06/18</td>
   </tr>
 </table>
 
@@ -23,11 +23,11 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson:</td>
-    <td>Learn what reality TV is.</td>
+    <td>Learn about the rules of the internet.</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>Yes, it is when people aren't acting but being themselves on front of a camera.</td>
+    <td>Yes because in a group of 3 we did 10 rules on it.</td>
   </tr>
 </table>
 
@@ -39,11 +39,11 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td></td>
+    <td>After I'd done all the points I knew I looked up rules as well for the exercise and my own benefit.</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>When Mr Keen asked us what reality TV was I asked myself in my head what it could be and what I have seen of it.</td>
+    <td></td>
   </tr>
   <tr>
     <td>Independence</td>
@@ -51,18 +51,18 @@ published: true
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>Last lesson we learnt about how things are photoshopped and not real. I used what we learnt then to help me with differences and connections.</td>
+    <td>Last lesson we looked at the positives and negatives of social media so I used what we did to help me.</td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>As soon as Mr Keen asked us that question I was very engaging because I had seen many things which I thought was reality TV.</td>
+    <td></td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
   </tr>
   <tr>
-    <td>When Mr Keen was showing us videos I was talking quite a lot and therefore disrupting the class when I should be just watching and listening.</td>
+    <td>When Mr Keen was giving us information on the topic I couldn’t have been listening because when we set to write 10 rules. After the first 2 I had to do I forgot anything else I could write. </td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Next time I need to be more murchire and not start talking or laughing. I should be more focused on the lesson and what is going on.</td>
+    <td>Next time I can improve by engaging more and listening to help me later.</td>
     <td></td>
   </tr>
 </table>
